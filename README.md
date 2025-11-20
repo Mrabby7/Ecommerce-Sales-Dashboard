@@ -1,4 +1,4 @@
-**🛒 Ecommerce Sales Dashboard – Project Overview
+**🛒 Ecommerce Sales Dashboard – Project Overview**
 1. Project Title / Headline**
 
 **Ecommerce Sales Performance Dashboard**
